@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-02-15T15:29:58+09:00"
+    },
+    {
+      "path": "index.html",
+      "title": "애플리케이션 서버 구축을 위한 R 워크샾",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-02-15T15:29:59+09:00"
+    }
+  ],
+  "collections": []
+}

@@ -1,0 +1,12 @@
+name: "workshop_lecture_2"
+title: "애플리케이션 서버 구축을 위한 R 워크샾"
+description: |
+  애플리케이션 서버 구축을 위한 R 워크샾
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
